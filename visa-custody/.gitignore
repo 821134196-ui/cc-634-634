@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.pydeps/
+.venv/
+venv/
+
+# 运行数据（SQLite 与本地照片）
+data/
+
+# 系统/编辑器
+.DS_Store
+*.log
