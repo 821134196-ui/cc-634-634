@@ -7,9 +7,12 @@ __pycache__/
 target/
 dist/
 build/
+frontend_dist/
+data/
 *.log
 .claude/
 .cc-workbench/
 轨迹/
 录屏/
 视频/
+.pytest_cache/
